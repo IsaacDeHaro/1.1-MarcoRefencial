@@ -200,3 +200,6 @@ K["Notificar cuando haya disponibilidad"]
 
 ![G3](https://github.com/IsaacDeHaro/1.1-MarcoRefencial/assets/89605742/f3e91561-b291-401d-80a2-1850a130c3f9)
 
+## Diagrama:
+
+![drawSQL-image-export-2024-02-28](https://github.com/IsaacDeHaro/1.1-MarcoRefencial/assets/89605742/077a20a0-feb3-4a81-b571-0d55a065c029)
